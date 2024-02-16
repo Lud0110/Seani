@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     # Local apps
     'library.apps.LibraryConfig',
+    'carrer.apps.CarrerConfig',
     # Django Apps
     'django.contrib.admin',
     'django.contrib.auth',
